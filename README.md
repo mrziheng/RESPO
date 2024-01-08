@@ -1,3 +1,5 @@
+The folder RESPO2060 contains the project code for China's power-system simulation in 2060, including:
+
 cfEeleP.py: calculate VRE LCOE according to CapEx, O&M cost, and annual capacity factor;
 
 InitData.py: initialize input data for RESPO model;
